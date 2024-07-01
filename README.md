@@ -1,1 +1,1 @@
-# Predicting-the-InSAR-derived-Velocity-prediction-via-Graph-neural-networks
+# Predicting-the-InSAR-derived-Velocity-via-Graph-neural-networks
